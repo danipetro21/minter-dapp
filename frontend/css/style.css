@@ -6,7 +6,7 @@
 
 :root {
   --font-primary: "Bangers", sans-serif;
-  --font-secondary: "BungeeOutline", serif;
+  --font-secondary: "Bungee+Outline", serif;
   --font-code: "Antonio", monospace;
   --bg-color: #beb615;
   --bg-color-transparent: #6ce21e59;
@@ -389,14 +389,6 @@ section {
   }
 }
 
-#video-bg{
-  position: absolute;
-  top:0;
-  left: 0;
-  min-width: 100%;
-  min-height: 100%;
-  z-index: 0;
-}
 /* UTILITIES */
 
 .hidden {
