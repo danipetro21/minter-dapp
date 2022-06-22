@@ -1,9 +1,9 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x73EA01ed8Ae4d5371D937daEAb0cCf824835f5F7"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "META BIKER CLUB";
-const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'In a world in turmoil full of bored monkeys, pixelated boys and billowing clouds, will our metaBikers be able to hit the track in the metaverse? Find out in the fastest community ever. Follow the  <a href="www.metabikerclub.com"  target="_blank" rel="noopener noreferrer"> DISCORD link</a> ';
+const welcome_h1 = "";
+const welcome_h2 = "";
+const welcome_p = '';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
